@@ -1,4 +1,4 @@
-package com.example.azmoon;
+package com.example.azmoon.Models;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.example.azmoon;
+package com.example.azmoon.Models;
 
 public class Terms {
     private int termId;
