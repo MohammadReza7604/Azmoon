@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Azmoon</string>
+    <string name="open_navigation_drawer">بازکردن</string>
+    <string name="close_navigation_drawer">بستن</string>
+    <string name="name">محمدرضا بهزادی مقدم</string>
+    <string name="main_page">صفحه اصلی</string>
+    <string name="account">حساب کاربری</string>
+    <string name="logout">خروج از حساب کاربري</string>
+    <string name="courses">دوره ها</string>
+    <string name="lessons">درس ها</string>
+    <string name="about_academy">درباره آموزشگاه</string>
+    <string name="guide">راهنما</string>
+    <string name="contact_us">ارتباط با ما</string>
+</resources>
